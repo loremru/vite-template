@@ -1,6 +1,10 @@
 {
   "name": "vite-template",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Basic Vite.js template with typescript, eslint, vue-router, scss support.",
+  "keywords": ["vite"],
+  "author": "loremru<mr.nonamerz08@yandex.ru>",
+  "license": "ISC",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
